@@ -1,0 +1,36 @@
+.panda-card{
+    border: 0;
+}
+.panda-footer{
+    background-color: white;
+    border: 0;
+}
+.panda-slide{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.catagoris img{
+    width: 100px;
+     
+}
+.catagori-box{
+    border-radius: 10px;
+      
+}
+ .cata-box1{
+     background-color: #ffa500;
+ }
+ .cata-box2{
+    background-color: #da70d6;
+}
+.cata-box3{
+    background-color: #0000ff;
+}
+button{
+    background-image: linear-gradient(4deg,#fc5497, #ff227b);
+    color: rgb(255, 255, 255);
+}
+.subscribe-sec{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
